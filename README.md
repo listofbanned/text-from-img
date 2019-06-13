@@ -1,1 +1,2 @@
-# text_from_img
+## Usage
+- Run `python *script*.py`
